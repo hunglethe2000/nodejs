@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Refined Steel Shoes123132",
+      "image": "https://picsum.photos/640/480",
+      "price": "849.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": false,
+      "quantity": 82644,
+      "cateId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Tasty Concrete Chips",
+      "image": "https://picsum.photos/640/480",
+      "price": "762.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": true,
+      "quantity": 57587,
+      "cateId": "3"
+    },
+    {
+      "id": "3",
+      "name": "Awesome Soft Fish",
+      "image": "https://picsum.photos/640/480",
+      "price": "633.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": false,
+      "quantity": 51117,
+      "cateId": "2"
+    },
+    {
+      "id": "4",
+      "name": "Gorgeous Concrete Car",
+      "image": "https://picsum.photos/640/480",
+      "price": "728.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": false,
+      "quantity": 56,
+      "cateId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Fantastic Fresh Fish",
+      "image": "https://picsum.photos/640/480",
+      "price": "364.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": true,
+      "quantity": 7373,
+      "cateId": "3"
+    },
+    {
+      "id": "6",
+      "name": "Gorgeous Metal Soap",
+      "image": "https://picsum.photos/640/480",
+      "price": "654.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": true,
+      "quantity": 26,
+      "cateId": "1"
+    },
+    {
+      "id": "7",
+      "name": "Tasty Fresh Pizza",
+      "image": "https://picsum.photos/640/480",
+      "price": "795.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": true,
+      "quantity": 61,
+      "cateId": "2"
+    },
+    {
+      "id": "8",
+      "name": "Tasty Concrete Towels",
+      "image": "https://picsum.photos/640/480",
+      "price": "513.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": false,
+      "quantity": 36,
+      "cateId": "1"
+    },
+    {
+      "id": "9",
+      "name": "Awesome Metal Computer",
+      "image": "https://picsum.photos/640/480",
+      "price": "741.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": false,
+      "quantity": 29,
+      "cateId": "2"
+    },
+    {
+      "id": "10",
+      "name": "Small Rubber Cheese",
+      "image": "https://picsum.photos/640/480",
+      "price": "471.00",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!",
+      "status": true,
+      "quantity": 42,
+      "cateId": "3"
+    },
+    {
+      "id": "8agdp5kvn",
+      "name": "Samsung Galaxy S21 Plus 5G",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-c7146.appspot.com/o/images%2F40429610_305399090192933_7084952642455076864_n.jpg?alt=media&token=178db6dc-8ae5-48c8-a567-f0160d502702",
+      "price": "29690000",
+      "status": "false",
+      "quantity": "111"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh Muc 1",
+      "description": "asdasd"
+    },
+    {
+      "id": "2",
+      "name": "Danh Muc 2",
+      "description": "asdasd"
+    },
+    {
+      "id": "3",
+      "name": "Danh Muc 33",
+      "description": "asdasd"
+    },
+    {
+      "id": "5atzd4ng6",
+      "name": "1233123",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-c7146.appspot.com/o/images%2F8608c4723a75fb143925af49abae38dc.jpg?alt=media&token=fde3b4b5-881e-4595-8872-3e803e9c47e8",
+      "description": "asdasd"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Le The Hung",
+      "email": "hungvirut2000@gmail.com",
+      "phone": "0967758023",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!"
+    },
+    {
+      "id": "2",
+      "name": "Le The A",
+      "email": "hungA@gmail.com",
+      "phone": "0967758012",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!"
+    },
+    {
+      "id": "3",
+      "name": "Le The B",
+      "email": "hungB@gmail.com",
+      "phone": "0967758023",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, perferendis!"
+    },
+    {
+      "name": "le the hung12322",
+      "gmail": "hung1111a@gmail.com",
+      "phone": "0123456789",
+      "message": "alo alo alo",
+      "id": "eRi0AmA"
+    }
+  ]
+}
